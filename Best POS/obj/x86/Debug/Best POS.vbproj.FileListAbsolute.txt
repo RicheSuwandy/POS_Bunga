@@ -1,0 +1,1090 @@
+D:\vb Project\Best POS\Best POS\bin\Debug\Best POS.exe.config
+D:\vb Project\Best POS\Best POS\bin\Debug\Best POS.exe
+D:\vb Project\Best POS\Best POS\bin\Debug\Best POS.pdb
+D:\vb Project\Best POS\Best POS\bin\Debug\Best POS.xml
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\Best POS.exe
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\Best POS.xml
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\Best POS.pdb
+D:\vb Project\Best POS\Best POS\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\vb Project\Best POS\Best POS\bin\Debug\C1.Win.C1Input.4.dll
+D:\vb Project\Best POS\Best POS\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\vb Project\Best POS\Best POS\bin\Debug\C1.Win.C1Input.4.xml
+D:\vb Project\Best POS\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\Best POS.exe.config
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best POS.exe
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best POS.xml
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best POS.pdb
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\Best POS.exe
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\Best POS.pdb
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\Best POS.xml
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\C1.Win.C1Input.4.dll
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\VB Project\Best POS - Copy\Best POS\bin\Debug\C1.Win.C1Input.4.xml
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\VB Project\Best POS - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Piutang.resources
+D:\VB Project\Best POS\Best POS\bin\Debug\C1.C1Report.4.dll
+D:\VB Project\Best POS\Best POS\bin\Debug\C1.C1Report.4.xml
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\VB Project\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+C:\Program Keren\Best POS\Best POS\bin\Debug\Best POS.exe.config
+C:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.exe
+C:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.xml
+C:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Program Keren\Best POS\Best POS\bin\Debug\Best POS.exe.config
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.exe
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.xml
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Program Keren\Best POS\Best POS\bin\Debug\Best POS.exe
+D:\Program Keren\Best POS\Best POS\bin\Debug\Best POS.pdb
+D:\Program Keren\Best POS\Best POS\bin\Debug\Best POS.xml
+D:\Program Keren\Best POS\Best POS\bin\Debug\C1.C1Report.4.xml
+D:\Program Keren\Best POS\Best POS\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\Program Keren\Best POS\Best POS\bin\Debug\C1.Win.C1Input.4.xml
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Piutang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Program Keren\Best POS\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\K Program\Best POS\Best POS\bin\Debug\Best POS.exe.config
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.exe
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.xml
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.pdb
+D:\K Program\Best POS\Best POS\bin\Debug\Best POS.exe
+D:\K Program\Best POS\Best POS\bin\Debug\Best POS.pdb
+D:\K Program\Best POS\Best POS\bin\Debug\Best POS.xml
+D:\K Program\Best POS\Best POS\bin\Debug\C1.C1Report.4.xml
+D:\K Program\Best POS\Best POS\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\K Program\Best POS\Best POS\bin\Debug\C1.Win.C1Input.4.xml
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Piutang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.exe.licenses
+C:\K Program\Best POS\Best POS\bin\Debug\Best POS.exe.config
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.exe
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.xml
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.pdb
+C:\K Program\Best POS\Best POS\bin\Debug\Best POS.exe
+C:\K Program\Best POS\Best POS\bin\Debug\Best POS.pdb
+C:\K Program\Best POS\Best POS\bin\Debug\Best POS.xml
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Piutang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.exe.licenses
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+C:\K Program\Best POS\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+C:\K Program\Best POS_Riche\Best POS\bin\Debug\Best POS.exe.config
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.exe
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.xml
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.pdb
+C:\K Program\Best POS_Riche\Best POS\bin\Debug\Best POS.pdb
+C:\K Program\Best POS_Riche\Best POS\bin\Debug\Best POS.xml
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Piutang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.exe.licenses
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+C:\K Program\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\Best POS.exe.config
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\Best POS.pdb
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\Best POS.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\C1.Win.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.txtNoBon.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.exe.licenses
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.exe
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best POS.pdb
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\Best POS.exe.config
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best POS.exe
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best POS.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best POS.pdb
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Piutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\obj\x86\Debug\Best POS.exe.licenses
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\Best POS.pdb
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\Best POS.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\C1.Win.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - Copy\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\Best POS.exe.config
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best POS.exe
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best POS.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best POS.pdb
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best POS.exe.licenses
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\Best POS.pdb
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\Best POS.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\C1.Win.2.dll
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\riche\Desktop\Riche\Best POS_Riche - 20201023\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\Best POS.exe.config
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best POS.exe
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best POS.xml
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\Best POS.pdb
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\Best POS.xml
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\C1.Win.C1Command.2.dll
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\C1.Win.C1Input.2.dll
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\C1.Win.2.dll
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Riche\Project\Best POS_Riche - 20210305\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\Best POS.exe.config
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.exe
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.xml
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.pdb
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\Best POS.pdb
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\Best POS.xml
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\C1.Win.2.dll
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\Best POS.exe.config
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.exe
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.xml
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\C1.Win.2.dll
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\Best POS.pdb
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\Project\VB\Project\Best POS_Riche - 20210404\Best POS\bin\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\bin\Debug\Best POS.exe.config
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best POS.exe
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\bin\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\bin\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\bin\Debug\C1.Win.2.dll
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\bin\Debug\Best POS.exe.config
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best POS.exe
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\bin\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\bin\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\bin\Debug\C1.Win.2.dll
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - Copy\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\bin\Debug\Best POS.exe.config
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best POS.exe
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\bin\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\bin\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\bin\Debug\C1.Win.2.dll
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Project\VB\Project\Toko Bunga\Best POS_Riche - 20230517 - RAW\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\bin\Debug\Best POS.exe.config
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best POS.exe
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\bin\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\bin\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\bin\Debug\C1.Win.2.dll
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Project\VB\Project\Toko Bunga\Backup\Best POS_Riche - 20230517 - Mentahan\Best POS\obj\x86\Debug\Best POS.exe.licenses
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\bin\Debug\Best POS.exe.config
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best POS.exe
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\bin\Debug\Best POS.pdb
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\bin\Debug\Best POS.xml
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\bin\Debug\C1.Win.2.dll
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\bin\Debug\C1.Win.C1Input.2.xml
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best POS.vbprojResolveAssemblyReference.cache
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.AboutBox1.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Rekapan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Barang_Detail.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPTHistoryPiutang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPTLabaKotor.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPTStockAkhirTahun.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPTTagihan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_CashKredit.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Akses_Recalculate.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Biaya.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Item_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Edit_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Laba_Rugi.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Recalculate_Stock.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Piutang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Jual_Periode.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Retur_Beli_Periode.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Sales.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Customer.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Penjualan_Periode.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Periode.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Hak_Akses.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Login.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Reset_Password.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Harga_Customer.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Hutang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_PIUTANG.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Barang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Faktur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_RPT_Pembelian_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Sales.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Pembelian.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Alokasi_Barang_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Barang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Customer.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Gudang.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Kredit_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Retur_Penjualan.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Supplier.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Tambah_User.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Ubah_Password.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_User_Management.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.FRM_Utama.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.Resources.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best_POS.SplashScreen1.resources
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best POS.vbproj.GenerateResource.Cache
+D:\Project\VB\Project\Toko Bunga\In Progress\BestPOS-20230629\Best POS\obj\x86\Debug\Best POS.exe.licenses

@@ -1,0 +1,800 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BestPOS
+</name>
+</assembly>
+<members>
+<member name="P:Best_POS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Best_POS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Best_POS.My.Resources.Resources.reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Best_POS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_BarangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Harga_CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Harga_SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_HutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Pembelian_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Pembelian_HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Penjualan_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Penjualan_HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_PiutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_UserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_GudangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Alokasi_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Alokasi_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Alokasi_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Alokasi_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Penjualan_HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Penjualan_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Retur_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Kode_Penjualan_ReturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Pembelian_HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Pembelian_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Retur_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Kode_Pembelian_ReturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Harga_CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Harga_SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_Retur_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_Retur_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_HutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PiutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_RPT_Laba_RugiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Barang_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.QueryLaporanBarangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Summary_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptCashKreditDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptLabaKotorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptHistoryPiutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptTagihanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.RPTStockAkhirTahunDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Rekapan_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_BarangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Harga_CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Harga_SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_HutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Pembelian_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Pembelian_HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Penjualan_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Penjualan_HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_PiutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_UserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_GudangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Alokasi_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Alokasi_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Alokasi_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Alokasi_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Penjualan_HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Penjualan_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Retur_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Kode_Penjualan_ReturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Pembelian_HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Pembelian_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Retur_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Kode_Pembelian_ReturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Harga_CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Harga_SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_Retur_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_Retur_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_HutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PiutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_RPT_Laba_RugiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Barang_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.QueryLaporanBarangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Summary_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptCashKreditRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptLabaKotorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptHistoryPiutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptTagihanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.RPTStockAkhirTahunRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Rekapan_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_BarangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Harga_CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Harga_SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_HutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Pembelian_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Pembelian_HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Penjualan_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Penjualan_HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_PiutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_UserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_GudangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Alokasi_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Alokasi_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Alokasi_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Alokasi_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Penjualan_HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Penjualan_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Retur_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Kode_Penjualan_ReturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Pembelian_HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Retur_Pembelian_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Retur_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Kode_Pembelian_ReturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Harga_CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Harga_SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_Retur_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_Retur_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_HutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Laporan_PiutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_RPT_Laba_RugiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.TBL_Barang_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.QueryLaporanBarangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Summary_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptCashKreditRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptLabaKotorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptHistoryPiutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.VwRptTagihanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.RPTStockAkhirTahunRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet.Query_Rekapan_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_BarangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Harga_CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Harga_SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_HutangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Pembelian_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Pembelian_HeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Penjualan_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Penjualan_HeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_PiutangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_UserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_GudangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Alokasi_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Alokasi_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Alokasi_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Alokasi_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Retur_Penjualan_HeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Retur_Penjualan_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Retur_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Kode_Penjualan_ReturTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Retur_Pembelian_HeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Retur_Pembelian_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Retur_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Kode_Pembelian_ReturTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Harga_CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Harga_SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Laporan_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Laporan_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Laporan_Retur_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Laporan_Retur_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Laporan_HutangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Laporan_PiutangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_RPT_Laba_RugiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TBL_Barang_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.QueryLaporanBarangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Summary_PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.VwRptCashKreditTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.VwRptLabaKotorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.VwRptHistoryPiutangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.VwRptTagihanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.RPTStockAkhirTahun">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.Query_Rekapan_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Best_POS.db_POS_CNDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Best_POS.db_POS_CNDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Best_POS.db_POS_CNDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.UpdateAll(Best_POS.db_POS_CNDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Best_POS.db_POS_CNDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

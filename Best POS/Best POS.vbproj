@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AD2312C5-D0FE-4665-9FCD-6F5E3D61C546}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Best_POS.My.MyApplication</StartupObject>
+    <RootNamespace>Best_POS</RootNamespace>
+    <AssemblyName>Best POS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Best POS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Best POS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Best POS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+    <Reference Include="C1.C1Report.4, Version=4.6.20111.54307, Culture=neutral, PublicKeyToken=594a0605db190bb9, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Command.2, Version=2.0.20173.282, Culture=neutral, PublicKeyToken=e808566f358766d8" />
+    <Reference Include="C1.Win.C1FlexGrid.4, Version=4.6.20111.602, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.2, Version=2.0.20173.282, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Pembelian_Rekapan.Designer.vb">
+      <DependentUpon>FRM_RPT_Pembelian_Rekapan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Pembelian_Rekapan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptPembelianRekapan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPembelianRekapan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_PembelianRev.vb">
+      <DependentUpon>RPT_PembelianRev.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="FRM_Barang_Detail.Designer.vb">
+      <DependentUpon>FRM_Barang_Detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Barang_Detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPTHistoryPiutang.Designer.vb">
+      <DependentUpon>FRM_RPTHistoryPiutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPTHistoryPiutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPTLabaKotor.Designer.vb">
+      <DependentUpon>FRM_RPTLabaKotor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPTLabaKotor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPTStockAkhirTahun.Designer.vb">
+      <DependentUpon>FRM_RPTStockAkhirTahun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPTStockAkhirTahun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPTTagihan.Designer.vb">
+      <DependentUpon>FRM_RPTTagihan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPTTagihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_CashKredit.Designer.vb">
+      <DependentUpon>FRM_RPT_CashKredit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_CashKredit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Retur_Penjualan.Designer.vb">
+      <DependentUpon>FRM_RPT_Faktur_Retur_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Retur_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT_Barang_Detail.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Barang_Detail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_CashKredit.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_CashKredit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Faktur_Retur_Penjualan.vb">
+      <DependentUpon>RPT_Faktur_Retur_Penjualan.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Retur_Pembelian.Designer.vb">
+      <DependentUpon>FRM_RPT_Faktur_Retur_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Retur_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Akses_Recalculate.Designer.vb">
+      <DependentUpon>FRM_Akses_Recalculate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Akses_Recalculate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Edit_Item_Pembelian.Designer.vb">
+      <DependentUpon>FRM_Edit_Item_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Edit_Item_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Biaya.Designer.vb">
+      <DependentUpon>FRM_Biaya.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Biaya.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Edit_Item_Penjualan.Designer.vb">
+      <DependentUpon>FRM_Edit_Item_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Edit_Item_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Edit_Retur_Penjualan.Designer.vb">
+      <DependentUpon>FRM_Edit_Retur_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Edit_Retur_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Edit_Retur_Pembelian.Designer.vb">
+      <DependentUpon>FRM_Edit_Retur_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Edit_Retur_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Laba_Rugi.Designer.vb">
+      <DependentUpon>FRM_RPT_Laba_Rugi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Laba_Rugi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Recalculate_Stock.Designer.vb">
+      <DependentUpon>FRM_Recalculate_Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Recalculate_Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT_Faktur_Penjualan2.vb">
+      <DependentUpon>RPT_Faktur_Penjualan2.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="FRM_RPT_Piutang.Designer.vb">
+      <DependentUpon>FRM_RPT_Piutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Piutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Hutang.Designer.vb">
+      <DependentUpon>FRM_RPT_Hutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Hutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Retur_Jual_Periode.Designer.vb">
+      <DependentUpon>FRM_RPT_Retur_Jual_Periode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Retur_Jual_Periode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Retur_Beli_Periode.Designer.vb">
+      <DependentUpon>FRM_RPT_Retur_Beli_Periode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Retur_Beli_Periode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Penjualan_Sales.Designer.vb">
+      <DependentUpon>FRM_RPT_Penjualan_Sales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Penjualan_Sales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Penjualan_Customer.Designer.vb">
+      <DependentUpon>FRM_RPT_Penjualan_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Penjualan_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Penjualan_Periode.Designer.vb">
+      <DependentUpon>FRM_RPT_Penjualan_Periode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Penjualan_Periode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Penjualan.Designer.vb">
+      <DependentUpon>FRM_RPT_Faktur_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Pembelian_Periode.Designer.vb">
+      <DependentUpon>FRM_RPT_Pembelian_Periode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Pembelian_Periode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Hak_Akses.Designer.vb">
+      <DependentUpon>FRM_Hak_Akses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Hak_Akses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Login.Designer.vb">
+      <DependentUpon>FRM_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Reset_Password.Designer.vb">
+      <DependentUpon>FRM_Reset_Password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Reset_Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Harga_Supplier.Designer.vb">
+      <DependentUpon>FRM_Harga_Supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Harga_Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Harga_Customer.Designer.vb">
+      <DependentUpon>FRM_Harga_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Harga_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Hutang.Designer.vb">
+      <DependentUpon>FRM_Hutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Hutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Piutang.Designer.vb">
+      <DependentUpon>FRM_Piutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Piutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Barang.Designer.vb">
+      <DependentUpon>FRM_RPT_Barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Pembelian.Designer.vb">
+      <DependentUpon>FRM_RPT_Faktur_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Faktur_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_RPT_Pembelian_Supplier.Designer.vb">
+      <DependentUpon>FRM_RPT_Pembelian_Supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_RPT_Pembelian_Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Sales.Designer.vb">
+      <DependentUpon>FRM_Sales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Sales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Retur_Pembelian.Designer.vb">
+      <DependentUpon>FRM_Retur_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Retur_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Kredit_Pembelian.Designer.vb">
+      <DependentUpon>FRM_Kredit_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Kredit_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Alokasi_Barang_Pembelian.Designer.vb">
+      <DependentUpon>FRM_Alokasi_Barang_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Alokasi_Barang_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Pembelian.Designer.vb">
+      <DependentUpon>FRM_Pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="db_POS_CNDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_POS_CNDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="db_POS_CNDataSet.vb">
+      <DependentUpon>db_POS_CNDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Alokasi_Barang_Penjualan.Designer.vb">
+      <DependentUpon>FRM_Alokasi_Barang_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Alokasi_Barang_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Barang.Designer.vb">
+      <DependentUpon>FRM_Barang.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Customer.Designer.vb">
+      <DependentUpon>FRM_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Gudang.Designer.vb">
+      <DependentUpon>FRM_Gudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Gudang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Kredit_Penjualan.Designer.vb">
+      <DependentUpon>FRM_Kredit_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Kredit_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Penjualan.Designer.vb">
+      <DependentUpon>FRM_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Retur_Penjualan.Designer.vb">
+      <DependentUpon>FRM_Retur_Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Retur_Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Supplier.Designer.vb">
+      <DependentUpon>FRM_Supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tambah_User.Designer.vb">
+      <DependentUpon>FRM_Tambah_User.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tambah_User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ubah_Password.Designer.vb">
+      <DependentUpon>FRM_Ubah_Password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ubah_Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_User_Management.Designer.vb">
+      <DependentUpon>FRM_User_Management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_User_Management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Utama.Designer.vb">
+      <DependentUpon>FRM_Utama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RPT_Barang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Barang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Faktur_Pembelian.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Faktur_Pembelian.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Faktur_Penjualan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Faktur_Penjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Faktur_Retur_Pembelian.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Faktur_Retur_Pembelian.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_HistoryPiutang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_HistoryPiutang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Hutang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Hutang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_LabaKotor.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_LabaKotor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Laba_Rugi.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Laba_Rugi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Pembelian.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Pembelian.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Penjualan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Penjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Piutang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Piutang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_RekapHistoryPiutang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_RekapHistoryPiutang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Retur_Beli.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Retur_Beli.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Retur_Jual.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Retur_Jual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_StockAkhirTahun.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_StockAkhirTahun.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Summary_Penjualan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Summary_Penjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT_Tagihan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_Tagihan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Pembelian_Rekapan.resx">
+      <DependentUpon>FRM_RPT_Pembelian_Rekapan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPembelianRekapan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPembelianRekapan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_PembelianRev.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_PembelianRev.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Barang_Detail.resx">
+      <DependentUpon>FRM_Barang_Detail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPTHistoryPiutang.resx">
+      <DependentUpon>FRM_RPTHistoryPiutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPTLabaKotor.resx">
+      <DependentUpon>FRM_RPTLabaKotor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPTStockAkhirTahun.resx">
+      <DependentUpon>FRM_RPTStockAkhirTahun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPTTagihan.resx">
+      <DependentUpon>FRM_RPTTagihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_CashKredit.resx">
+      <DependentUpon>FRM_RPT_CashKredit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Faktur_Retur_Penjualan.resx">
+      <DependentUpon>FRM_RPT_Faktur_Retur_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Barang_Detail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Barang_Detail.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_CashKredit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_CashKredit.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Faktur_Retur_Penjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Faktur_Retur_Penjualan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Faktur_Retur_Pembelian.resx">
+      <DependentUpon>FRM_RPT_Faktur_Retur_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Akses_Recalculate.resx">
+      <DependentUpon>FRM_Akses_Recalculate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Edit_Item_Pembelian.resx">
+      <DependentUpon>FRM_Edit_Item_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Biaya.resx">
+      <DependentUpon>FRM_Biaya.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Edit_Item_Penjualan.resx">
+      <DependentUpon>FRM_Edit_Item_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Edit_Retur_Penjualan.resx">
+      <DependentUpon>FRM_Edit_Retur_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Edit_Retur_Pembelian.resx">
+      <DependentUpon>FRM_Edit_Retur_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Laba_Rugi.resx">
+      <DependentUpon>FRM_RPT_Laba_Rugi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Recalculate_Stock.resx">
+      <DependentUpon>FRM_Recalculate_Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Faktur_Penjualan2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Faktur_Penjualan2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Piutang.resx">
+      <DependentUpon>FRM_RPT_Piutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Hutang.resx">
+      <DependentUpon>FRM_RPT_Hutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Retur_Jual_Periode.resx">
+      <DependentUpon>FRM_RPT_Retur_Jual_Periode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Retur_Beli_Periode.resx">
+      <DependentUpon>FRM_RPT_Retur_Beli_Periode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Penjualan_Sales.resx">
+      <DependentUpon>FRM_RPT_Penjualan_Sales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Penjualan_Customer.resx">
+      <DependentUpon>FRM_RPT_Penjualan_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Penjualan_Periode.resx">
+      <DependentUpon>FRM_RPT_Penjualan_Periode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Faktur_Penjualan.resx">
+      <DependentUpon>FRM_RPT_Faktur_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Pembelian_Periode.resx">
+      <DependentUpon>FRM_RPT_Pembelian_Periode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Hak_Akses.resx">
+      <DependentUpon>FRM_Hak_Akses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Login.resx">
+      <DependentUpon>FRM_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Reset_Password.resx">
+      <DependentUpon>FRM_Reset_Password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Harga_Supplier.resx">
+      <DependentUpon>FRM_Harga_Supplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Harga_Customer.resx">
+      <DependentUpon>FRM_Harga_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Hutang.resx">
+      <DependentUpon>FRM_Hutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Piutang.resx">
+      <DependentUpon>FRM_Piutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Barang.resx">
+      <DependentUpon>FRM_RPT_Barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Faktur_Pembelian.resx">
+      <DependentUpon>FRM_RPT_Faktur_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_RPT_Pembelian_Supplier.resx">
+      <DependentUpon>FRM_RPT_Pembelian_Supplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Sales.resx">
+      <DependentUpon>FRM_Sales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Retur_Pembelian.resx">
+      <DependentUpon>FRM_Retur_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Kredit_Pembelian.resx">
+      <DependentUpon>FRM_Kredit_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Alokasi_Barang_Pembelian.resx">
+      <DependentUpon>FRM_Alokasi_Barang_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Pembelian.resx">
+      <DependentUpon>FRM_Pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Alokasi_Barang_Penjualan.resx">
+      <DependentUpon>FRM_Alokasi_Barang_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Barang.resx">
+      <DependentUpon>FRM_Barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Customer.resx">
+      <DependentUpon>FRM_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Gudang.resx">
+      <DependentUpon>FRM_Gudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Kredit_Penjualan.resx">
+      <DependentUpon>FRM_Kredit_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Penjualan.resx">
+      <DependentUpon>FRM_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Retur_Penjualan.resx">
+      <DependentUpon>FRM_Retur_Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Supplier.resx">
+      <DependentUpon>FRM_Supplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tambah_User.resx">
+      <DependentUpon>FRM_Tambah_User.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ubah_Password.resx">
+      <DependentUpon>FRM_Ubah_Password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_User_Management.resx">
+      <DependentUpon>FRM_User_Management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Utama.resx">
+      <DependentUpon>FRM_Utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Barang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Barang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Faktur_Pembelian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Faktur_Pembelian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Faktur_Penjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Faktur_Penjualan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Faktur_Retur_Pembelian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Faktur_Retur_Pembelian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_HistoryPiutang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_HistoryPiutang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Hutang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Hutang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_LabaKotor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_LabaKotor.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Laba_Rugi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Laba_Rugi.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Pembelian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Pembelian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Penjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Penjualan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Piutang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Piutang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_RekapHistoryPiutang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_RekapHistoryPiutang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Retur_Beli.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Retur_Beli.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Retur_Jual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Retur_Jual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_StockAkhirTahun.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_StockAkhirTahun.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Summary_Penjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Summary_Penjualan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT_Tagihan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Tagihan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="db_POS_CNDataSet.xsc">
+      <DependentUpon>db_POS_CNDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="db_POS_CNDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_POS_CNDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="db_POS_CNDataSet.xss">
+      <DependentUpon>db_POS_CNDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
